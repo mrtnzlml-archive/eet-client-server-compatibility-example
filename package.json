@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "jsrsasign": "^7.1.0"
+  }
+}
